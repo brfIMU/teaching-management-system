@@ -64,8 +64,8 @@ teaching-management-system/
   spring:
   datasource:
     url: jdbc:mysql://localhost:3306/teaching_management?useSSL=false&serverTimezone=UTC
-    username: root
-    password: 123456
+    username: youruser
+    password: yourpassword
     driver-class-name: com.mysql.cj.jdbc.Driver
   ```
 
